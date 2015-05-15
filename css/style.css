@@ -45,6 +45,11 @@ img {
     max-height: 1000%;
 }
 
+.markdown img.emoji {
+    border: 0;
+    padding: 0;
+}
+
 .markdown img {
     background: white;
     border: 1px solid #d8d8d8;
