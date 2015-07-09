@@ -48,6 +48,9 @@ img {
 .markdown img.emoji {
     border: 0;
     padding: 0;
+    height: 23px;
+    vertical-align: middle;
+    margin-bottom: .23em;
 }
 
 .markdown img {
