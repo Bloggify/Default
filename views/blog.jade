@@ -26,13 +26,13 @@
     - }
     .pagination
       - if (data.page.previous) {
-      a.page.prev(href=config.blog.path + '/page/' + data.page.previous)
+      a.page.prev(href=data.urls.prevPage)
         i.fa.fa-angle-left
         = " "
         | Newer articles
       - }
       - if (data.page.next) {
-      a.page.next(href=config.blog.path + '/page/' + data.page.next)
+      a.page.next(href=data.urls.nextPage)
         | Older articles
         = " "
         i.fa.fa-angle-right
