@@ -1,10 +1,10 @@
 /* fonts and tomorrow theme */
-@import url(http://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,700&subset=latin,latin-ext);
-@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Gentium+Book+Basic:400,700&subset=latin,latin-ext);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800&subset=latin,latin-ext);
 @import url("./tomorrow.css");
 
-@import url("http://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.0/animate.min.css");
-@import url("http://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.1.0/animate.min.css");
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.css");
 
 /* markdown css */
 @import url("./markdown.css");

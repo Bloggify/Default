@@ -36,7 +36,7 @@
       div.blog-feedback
         p.blog-feedback-header Have feedback on this article? Let
           = " "
-          - data.article.fullUrl = "http://" + lien.req.headers.host + data.article.url;
+          - data.article.fullUrl = "https://" + lien.req.headers.host + data.article.url;
           - var socialLink = "https://twitter.com/intent/tweet?text=@" + config.themeData.social.twitter + "%20&amp;related=" + config.themeData.social.twitter + "&url=" + data.article.fullUrl;
           a(href=socialLink, target="blank")
             | @#{config.themeData.social.twitter}
