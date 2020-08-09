@@ -1,6 +1,6 @@
 {
   "name": "bloggify-default-theme",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default theme for Bloggify",
   "main": "index.js",
   "scripts": {
