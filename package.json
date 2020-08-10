@@ -21,7 +21,7 @@
     "url": "https://github.com/BloggifyThemes/Default/issues"
   },
   "dependencies": {
-    "moment": "2.8.3"
+    "moment": "2.19.3"
   },
   "homepage": "https://github.com/BloggifyThemes/Default",
   "bloggify": {
